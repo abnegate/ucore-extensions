@@ -1,10 +1,12 @@
 {
+  "type": "library",
   "name": "com.jakebarnby.ucore-extensions",
   "version": "1.0.0",
   "displayName": "UCore Extensions",
   "description": "New package",
   "unity": "2019.4",
   "keywords": [
+    "ucore",
     "extensions"
   ],
   "author": {
@@ -15,6 +17,5 @@
   "git": {
     "url": "https://github.com/abnegate/ucore-extensions",
     "tag": "1.0.0"
-  },
-  "type": "library"
+  }
 }
