@@ -1,2 +1,0 @@
-# ucore-extensions
-UCore Extensions
